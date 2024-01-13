@@ -1,0 +1,1 @@
+{"name":"Local: logchopping","url":"c:\\Users\\yashi\\POTD\\logchopping.cpp","tests":[{"id":1705125922137,"input":"2\n4\n2 4 2 1\n1\n1","output":"errorgorn\nmaomao90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashi\\POTD\\logchopping.cpp","group":"local","local":true}
